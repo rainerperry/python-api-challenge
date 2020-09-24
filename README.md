@@ -1,2 +1,2 @@
-# python-api-challenge
+# API-Challenge
 Python API Homework
